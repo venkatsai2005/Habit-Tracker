@@ -1,0 +1,13 @@
+{
+    "crons": [
+      {
+        "path": "/api/jobs/sendreminders",
+        "schedule": "0 7 * * *"
+      },
+      {
+        "path": "/api/jobs/sendalerts",
+        "schedule": "0 19 * * *"
+      }
+    ]
+  }
+  
