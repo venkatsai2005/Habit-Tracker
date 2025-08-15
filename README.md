@@ -28,7 +28,7 @@ The Habit Tracker is a web application designed to help users build and maintain
 ### Installation Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/pvarma-05/Habit-Tracker.git
+   git clone https://github.com/venkatsai2005/Habit-Tracker.git
    ```
 2. Navigate to the project directory:
    ```bash
